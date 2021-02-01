@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinDistance", "LevenshteinDistance\LevenshteinDistance.csproj", "{55ED638D-2BB5-40D4-8550-03073B00CC8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinTests", "LevenshteinTests\LevenshteinTests.csproj", "{8DE035C0-75AF-41D1-BC80-7FCB98E97637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55ED638D-2BB5-40D4-8550-03073B00CC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55ED638D-2BB5-40D4-8550-03073B00CC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55ED638D-2BB5-40D4-8550-03073B00CC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55ED638D-2BB5-40D4-8550-03073B00CC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE035C0-75AF-41D1-BC80-7FCB98E97637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE035C0-75AF-41D1-BC80-7FCB98E97637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE035C0-75AF-41D1-BC80-7FCB98E97637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE035C0-75AF-41D1-BC80-7FCB98E97637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E006F1-AA32-4CD8-AB5D-BA356C8935AA}
+	EndGlobalSection
+EndGlobal
